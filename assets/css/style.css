@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*header banner*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +42,8 @@ header div ul li {
     margin-left: 25px;
 }
 
+
+/*body text colour adn size*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -51,7 +54,7 @@ p {
 }
 
 
-/*adds wide image before SEO and ORM*/
+/*adds banner image*/
 #banner {
     height: 800px;
     width: 100%;
@@ -61,6 +64,8 @@ p {
     background-position: center;
 }
 
+
+/*styling images for sections*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -78,7 +83,7 @@ content {
 }
 
 
-/*benefits menu for right side of page*/
+/*container for Benefits company brings*/
 container{
     margin-right: 20px;
     padding: 20px;
@@ -90,6 +95,7 @@ container{
     background-color: #2589bd;
 }
 
+/*Lead generation*/
 .lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -106,6 +112,7 @@ container{
 }
 
 
+/*Brand awareness*/
 .brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -120,6 +127,7 @@ container{
     max-width: 150px;
 }
 
+/*Cost management*/
 .cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -134,6 +142,8 @@ container{
     max-width: 150px;
 }
 
+
+/*Search Engine Optimisation*/
 .SEO {
     margin-bottom: 20px;
     padding: 50px;
@@ -150,7 +160,7 @@ container{
     font-size: 36px;
 }
 
-
+/*Online Reputation Management*/
 .ORM {
     margin-bottom: 20px;
     padding: 50px;
@@ -167,6 +177,7 @@ container{
     font-size: 36px;
 }
 
+/*Social Media Marketing*/
 .SMM {
     margin-bottom: 20px;
     padding: 50px;
